@@ -1,0 +1,13 @@
+c:\users\bio\documents\visual studio 2010\Projects\MvcDemo\MvcDemo\bin\MvcDemo.dll
+c:\users\bio\documents\visual studio 2010\Projects\MvcDemo\MvcDemo\bin\MvcDemo.pdb
+c:\users\bio\documents\visual studio 2010\Projects\MvcDemo\MvcDemo\bin\EntityFramework.dll
+c:\users\bio\documents\visual studio 2010\Projects\MvcDemo\MvcDemo\bin\EntityFramework.xml
+c:\users\bio\documents\visual studio 2010\Projects\MvcDemo\MvcDemo\obj\Debug\MvcDemo.dll
+c:\users\bio\documents\visual studio 2010\Projects\MvcDemo\MvcDemo\obj\Debug\MvcDemo.pdb
+C:\Users\bio\Documents\Visual Studio 2010\Projects\FortunatePanaceas\FortunatePanaceas\bin\EntityFramework.dll
+C:\Users\bio\Documents\Visual Studio 2010\Projects\FortunatePanaceas\FortunatePanaceas\bin\EntityFramework.xml
+C:\Users\bio\Documents\Visual Studio 2010\Projects\FortunatePanaceas\FortunatePanaceas\obj\Debug\FortunatePanaceas.csprojResolveAssemblyReference.cache
+C:\Users\bio\Documents\Visual Studio 2010\Projects\FortunatePanaceas\FortunatePanaceas\bin\FortunatePanaceas.dll
+C:\Users\bio\Documents\Visual Studio 2010\Projects\FortunatePanaceas\FortunatePanaceas\bin\FortunatePanaceas.pdb
+C:\Users\bio\Documents\Visual Studio 2010\Projects\FortunatePanaceas\FortunatePanaceas\obj\Debug\FortunatePanaceas.dll
+C:\Users\bio\Documents\Visual Studio 2010\Projects\FortunatePanaceas\FortunatePanaceas\obj\Debug\FortunatePanaceas.pdb
